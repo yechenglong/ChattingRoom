@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ChattingClient/src/chat/client/ChatClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingClient/src/chat/client/ChatClientUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingClient/src/chat/function/ChatBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingClient/src/chat/login/ChatLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingClient/src/chat/resign/ChatResign.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingClient/src/chat/util/ChatUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingServer/src/chat/function/ServerChatBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingServer/src/chat/server/ChatServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingServer/src/chat/server/ChatServerUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChattingServer/src/chat/util/ServerChatUtil.java" charset="GBK" />
+  </component>
+</project>

@@ -18,6 +18,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.net.URL;
+import java.net.UnknownHostException;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Vector;
@@ -44,6 +45,7 @@ import javax.swing.border.TitledBorder;
 
 import chat.function.ServerChatBean;
 import chat.util.ServerChatUtil;
+
 
 class CellRenderer extends JLabel implements ListCellRenderer {
 	CellRenderer() {
@@ -400,8 +402,10 @@ public class ChatClientUI extends JFrame {
 			e.printStackTrace();
 		}
 	}
-	public static void  mian(String[] args) {
+	public static void  main(String[] args) {
+	
 		
 	}
+
 }
 
